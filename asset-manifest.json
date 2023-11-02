@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.19f2babb.css",
+    "main.js": "/portfolio/static/js/main.f045c1b1.js",
+    "static/js/787.f53d2f95.chunk.js": "/portfolio/static/js/787.f53d2f95.chunk.js",
+    "static/media/Foto-Profilo.png": "/portfolio/static/media/Foto-Profilo.c2042e98ed3350b357d2.png",
+    "static/media/back-end.svg": "/portfolio/static/media/back-end.0cc52a395910843f90655393336f4b20.svg",
+    "static/media/programming-language.svg": "/portfolio/static/media/programming-language.a41314e3325479426021862271cca21c.svg",
+    "static/media/graphic-design.svg": "/portfolio/static/media/graphic-design.d6326a90fb3a6e270b2fbf68c58759cb.svg",
+    "static/media/translation.svg": "/portfolio/static/media/translation.2b71963c3c4ea5151f056f36d2c217c5.svg",
+    "static/media/front-end.svg": "/portfolio/static/media/front-end.0f71f5cfa97757423a87b230ba4c4c66.svg",
+    "static/media/fullstack.svg": "/portfolio/static/media/fullstack.f212342213eb34344658551f536383ad.svg",
+    "index.html": "/portfolio/index.html",
+    "main.19f2babb.css.map": "/portfolio/static/css/main.19f2babb.css.map",
+    "main.f045c1b1.js.map": "/portfolio/static/js/main.f045c1b1.js.map",
+    "787.f53d2f95.chunk.js.map": "/portfolio/static/js/787.f53d2f95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19f2babb.css",
+    "static/js/main.f045c1b1.js"
+  ]
+}
